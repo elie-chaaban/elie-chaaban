@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elie chaaban</h1>
-<h3 align="center">Full Stack Developer - ZainTech at Zain Group</h3>
+<h3 align="center">Full Stack Developer - ZainTECH at Zain Group</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elie-chaaban&label=Profile%20views&color=0e75b6&style=flat" alt="elie-chaaban" /> </p>
 
