@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elie chaaban</h1>
 <h3 align="center">Full Stack Developer - ZainTECH at Zain Group</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elie-chaaban" alt="elie-chaaban" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://eliechaaban.com](https://eliechaaban.com)
 
 - 📫 How to reach me **info@eliechaaban.com**
