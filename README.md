@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://eliechaaban.com](https://eliechaaban.com)
 
-- 📫 How to reach me **elie_chaaban@hotmail.com**
+- 📫 How to reach me **info@eliechaaban.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eliechaaban/](https://www.linkedin.com/in/eliechaaban/)
 
