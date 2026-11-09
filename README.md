@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elie chaaban</h1>
 <h3 align="center">Full Stack Developer - ZainTECH at Zain Group</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elie-chaaban&label=Profile%20views&color=0e75b6&style=flat" alt="elie-chaaban" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elie-chaaban" alt="elie-chaaban" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://eliechaaban.com](https://eliechaaban.com)
