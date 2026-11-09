@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://eliechaaban.com](https://eliechaaban.com)
 
-- 📫 How to reach me **info@eliechaaban.com**
+- 📫 How to reach me **hello@eliechaaban.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eliechaaban/](https://www.linkedin.com/in/eliechaaban/)
 
